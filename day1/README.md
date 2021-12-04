@@ -1,0 +1,3 @@
+# Z80 Assembly (for TI83+ calculator)
+
+This was actually one of the first languages I learned in highschool. I had a graphic calculator and I used to make simple programs in the basic programming language the calculator supported. However I noticed the programs where very slow, so I knew there had to be a better way to program the calculator. I found out the calculator itself was programmed in z80 assembly, so I decided to learn it. I made a few simple games in it and a sudoku solver. Unfortunately I think I lost the source code to all of those projects (or it might be on an old laptop in a drawer at my parents house). Back then I did not think programming was cool, so I kept my projects a secret to my classmates.
